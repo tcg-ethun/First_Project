@@ -196,3 +196,47 @@ ul{
     font-size: 25px;
     color: rgb(8, 149, 8);
 }
+
+.header-v{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+
+.buy{
+    width: 130px;
+    border-radius: 5px;
+    justify-self: center;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 6px;
+    padding: 6px;
+    background-color: blue;
+}
+
+#laptop-ul{
+justify-self: center;
+margin-bottom: 20px;
+}
+
+.name-n{
+    justify-self: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#laptop-ul li{
+    font-size: 17px;
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
